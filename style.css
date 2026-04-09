@@ -1,0 +1,16 @@
+*{background-color: antiquewhite;}
+
+h1{color: darkred;
+font-family: 'Times New Roman', Times, serif;
+text-align: center;
+}
+
+p{color: black;
+font-family: 'Arial', sans-serif;
+text-align: justify;
+margin: 20px;
+line-height: 1.5;
+}
+hr{border: 1px solid darkred;
+margin: 20px 0;
+}
